@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("This is my first text in in my first commit!")
             Text("here is new change text!")
+            Text("this is new line in my feature branch")
         }
         .padding()
     }
